@@ -2,7 +2,7 @@
 
 An AI-powered web app that checks whether an apple, banana or orange is **fresh or rotten** from a single photo. Built with transfer learning (MobileNetV2) and deployed as a Streamlit app.
 
-> **Live demo:** _coming soon_ (Hugging Face Spaces)
+> **Live demo:** [food-freshness-detector.streamlit.app](https://food-freshness-detector-lt3xzs7breynyphdlkpzo4.streamlit.app) (hosted on Streamlit Community Cloud; the app may need a few seconds to wake up if it has been idle)
 
 ![Confusion matrix](assets/confusion_matrix.png)
 
